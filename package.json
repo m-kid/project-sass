@@ -1,0 +1,25 @@
+{
+  "name": "lawenda",
+  "version": "1.0.0",
+  "description": "css sass grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-kid/project-sass.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Maciej Kidawa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-kid/project-sass/issues"
+  },
+  "homepage": "https://github.com/m-kid/project-sass#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
